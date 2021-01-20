@@ -1,0 +1,10 @@
+# Note: Please note that this requirements.txt file is not yet tested. 
+# If any of the packages do not get installed using 'pip install requiremts.txt', then please install them manually
+# In that cases consider this file to be just list of names of packages
+
+numpy
+scipy 
+scikit-learn
+matplotlib
+scipydirect
+GPy
